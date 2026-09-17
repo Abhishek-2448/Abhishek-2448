@@ -31,12 +31,12 @@ Compares a custom CNN, fine-tuned ResNet-18, and EfficientNet-B0 with transfer l
 ## 📊 GitHub Stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Abhishek-2448&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats-jlhj67y1u-abhishek-reddy-ss-projects.vercel.app/api?username=Abhishek-2448&show_icons=true&theme=chartreuse-dark&hide_border=true&count_private=true" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-2448&theme=highcontrast&hide_border=true" />
 </p>
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-2448&layout=compact&theme=chartreuse-dark&hide_border=true" />
+  <img src="https://github-readme-stats-jlhj67y1u-abhishek-reddy-ss-projects.vercel.app/api/top-langs/?username=Abhishek-2448&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
 
 ## 🌐 Connect

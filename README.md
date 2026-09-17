@@ -28,6 +28,7 @@ Compares a custom CNN, fine-tuned ResNet-18, and EfficientNet-B0 with transfer l
 
 `Jupyter Notebook` `PyTorch` `Computer Vision` `Transfer Learning`
 
+<!--
 ## 📊 GitHub Stats
 
 <p align="left">
@@ -38,6 +39,7 @@ Compares a custom CNN, fine-tuned ResNet-18, and EfficientNet-B0 with transfer l
 <p align="left">
   <img src="https://github-readme-stats-jlhj67y1u-abhishek-reddy-ss-projects.vercel.app/api/top-langs/?username=Abhishek-2448&layout=compact&theme=chartreuse-dark&hide_border=true" />
 </p>
+-->
 
 ## 🌐 Connect
 
